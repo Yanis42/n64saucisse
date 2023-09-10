@@ -1,0 +1,16 @@
+---
+AllowShortFunctionsOnASingleLine: None
+ColumnLimit: "125"
+IndentWidth: "4"
+SpacesBeforeTrailingComments: "2"
+TabWidth: "4"
+UseTab: Never
+AllowShortEnumsOnASingleLine: false
+IndentPPDirectives: BeforeHash
+AlignEscapedNewlines: Left
+SpaceBeforeInheritanceColon: false
+AlignArrayOfStructures: Right
+AccessModifierOffset: 0
+IndentAccessModifiers: true
+
+...

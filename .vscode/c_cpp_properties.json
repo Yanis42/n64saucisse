@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${N64_INST}/mips64-elf/include/**"
+            ],
+            "defines": [],
+            "compilerPath": "${default}",
+            "intelliSenseMode": "${default}"
+        }
+    ],
+    "version": 4
+}

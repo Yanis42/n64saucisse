@@ -1,0 +1,4 @@
+build/
+*.bs*
+*.z64
+*.sprite
